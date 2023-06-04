@@ -1,0 +1,6 @@
+project: paris
+target: log-error
+cmds:
+    - cmd: /log_error
+testsuite:
+    - file://mayhem/examples

@@ -1,0 +1,1 @@
+<black><red><green><yellow><blue><cyan><magenta><white><bright-black><bright-green><bright-yellow><bright-blue><bright-cyan><bright-magenta><bright-white>This text has all the foregrounds!</>

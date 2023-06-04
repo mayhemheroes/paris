@@ -1,0 +1,1 @@
+<blue><on-bright-red> This text is blue on a bright red background</> it's a pain

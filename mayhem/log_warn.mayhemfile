@@ -1,0 +1,6 @@
+project: paris
+target: log-warn
+cmds:
+    - cmd: /log_warn
+testsuite:
+    - file://mayhem/examples

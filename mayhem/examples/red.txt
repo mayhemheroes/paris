@@ -1,0 +1,1 @@
+I can write normal text or use tags to <red>color it</>
